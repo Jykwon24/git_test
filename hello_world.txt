@@ -1,1 +1,2 @@
 Adding some text for the git practice.
+Git commit message flag test.
